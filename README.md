@@ -8,6 +8,8 @@
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Display the number of online users in real-time using Phoenix Presence](https://farens.me/blog/real-time-user-count-with-phoenix-presence)
+- [Hello World! Introduction to my website and blog](https://farens.me/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
