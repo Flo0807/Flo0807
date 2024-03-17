@@ -6,6 +6,10 @@
 - 📚 I am currently studying for my master's degree in computer science
 - 🏸 I love playing badminton
 
+### 📕 Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **Flo0807/Flo0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
