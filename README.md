@@ -6,7 +6,7 @@
 - 📚 I am currently studying for my master's degree in computer science
 - 🏸 I love playing badminton
 
-### 📕 Latest blog posts
+📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
