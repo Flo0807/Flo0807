@@ -8,11 +8,11 @@
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [Implement the Web Share API in Phoenix LiveView](https://farens.me/blog/implement-the-web-share-api-in-phoenix-liveview)
 - [Elixir CI: Testing, Publishing, and Containerization with GitHub Actions](https://farens.me/blog/elixir-ci-testing-publishing-and-containerization-with-github-actions)
 - [Building a Table of Contents Component for a Phoenix Blog](https://farens.me/blog/building-a-table-of-contents-component-for-a-phoenix-blog)
 - [How to integrate Tabler Icons into your Phoenix project](https://farens.me/blog/how-to-integrate-tabler-icons-into-your-phoenix-project)
 - [Collaboration in Git: A comparison of different workflows](https://farens.me/blog/collaboration-in-git-a-comparison-of-different-workflows)
-- [Display the number of online users in real-time using Phoenix Presence](https://farens.me/blog/real-time-user-count-with-phoenix-presence)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
