@@ -3,7 +3,6 @@
 - 👨‍💻 I'm working as a full-stack software developer
 - 🔮 I'm building web applications using Elixir and Phoenix
 - 🔭 I'm interested in open source projects
-- 📚 I am currently studying for my master's degree in computer science
 - 🏸 I love playing badminton
 
 📕 **Latest blog posts**
